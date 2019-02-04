@@ -1,0 +1,34 @@
+Practicing Basic input
+What is your name:Hello ra
+Hello ra
+These are Variables
+Variable i is 120
+variable f has the value 1.6180339 and its type is <class 'float'>
+False has the type <class 'bool'>
+Tuples
+a[0] has the value 10 and is the type <class 'tuple'>
+setting Variables
+{1, 2, 3, 4}
+dictionary
+A
+D
+Conditionals
+The number 10 is positive
+loops
+0
+1
+2
+3
+4
+0-2
+1-3
+2-4
+3-5
+4-6
+5-7
+6-8
+7-9
+functions
+False
+Imported class helper_utils with the square function
+10000
