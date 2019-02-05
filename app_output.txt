@@ -1,0 +1,11 @@
+Raymond, 90
+James, 75
+Michelle, 47
+Jack, 86
+Paul, 79
+Jackie, 37
+Marie, 84
+Doug, 45
+Dan, 65
+Chris, 99
+Average Class Score: 70.7
