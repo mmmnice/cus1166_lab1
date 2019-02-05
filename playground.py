@@ -69,6 +69,12 @@ class Book:
         self.isbn =isbn
     def printBook(self):
         print(self.title + ", " + self.isbn)
+    def setTitle(self, yea):
+        self.title=yea
+e1=Book()
+e1.setTitle("Same")
+e1.printBook()
+
 
 from helper_utils import square
 print("Imported class helper_utils with the square function")
